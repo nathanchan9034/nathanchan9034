@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Second year Computer Science Student @ WLU<br>🚀 Currently working on a Task Management Web App<br>🌱 Currently learning Django<br>💬 Interested in Software Engineering and Game Development
+📚 Second year Computer Science Student @ WLU<br>💬 Interested in Software Engineering and Game Development
 
 
 ## 🌐 Socials:
